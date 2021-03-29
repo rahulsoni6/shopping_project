@@ -1,0 +1,2 @@
+export const PRODUCT_RENDER = "PRODUCT_RENDER";
+export const PRODUCT_SUCCESS = "PRODUCT_SUCCESS";
